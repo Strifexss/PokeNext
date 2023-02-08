@@ -27,6 +27,7 @@ export default function Icons(props) {
         <Icone>
            <Image 
             src={props.imagem}
+            alt="Pokemon"
            /> 
             <p>{props.texto}</p>
         </Icone>

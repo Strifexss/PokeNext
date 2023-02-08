@@ -208,7 +208,7 @@ export default function PokemonAppear() {
                     </div>
                 </PesquisaFlex>
                 <GreenCard>
-                    <h3>Realize a busca do Pokemon usnadoo seu ID na Pokedex</h3>
+                    <h3>Realize a busca do Pokemon usando seu ID na Pokedex</h3>
                 </GreenCard>
             </Pesquisar>
             <Flexar>
